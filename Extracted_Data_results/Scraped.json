@@ -1,0 +1,541 @@
+[
+    {
+        "original_id":"#ccf5602c1c-2e20-4773-89f3-08f921ac655f",
+        "aug_id":"Mathieu Court Alley Play Street",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -122.344475,
+                37.933013
+            ]
+        },
+        "url":"https:\/\/www.ci.richmond.ca.us\/4486\/Travel-Safe-Richmond",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"Mathieu Court Alley Play Street",
+        "Project_description":"The City of Richmond proposes to construct the Richmond-Greenway Gap Closure Project, a multi-use trail connection in Richmond, California. The Richmond-Ohlone Greenway Gap Closure Project represents the third phase of the Richmond Greenway Project, which would provide a continuous bicycle and pedestrian pathway in Richmond from Garrard Boulevard and the Richmond Parkway to San Pablo Avenue. The Richmond Greenway would connect the San Francisco Bay Trail at the west with the Ohlone Greenway in the City of El Cerrito at the east. The proposed project includes installation of the new multi-use trail, a new crosswalk and traffic signal on San Pablo Avenue, and a new bridge over realigned Baxter Creek as well as associated improvements and landscaping.",
+        "status":"Ongoing",
+        "stages":"Construction",
+        "date":"2023-02-07",
+        "procurementMethod":"Public Tender",
+        "budget":null,
+        "currency":"USD",
+        "buyer":"City of Richmond",
+        "sector":"Infrastructure",
+        "subsector":"Urban Development"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"About Google Translate",
+        "country_name":"Google",
+        "country_code":"GOO",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                37.422,
+                -122.084
+            ]
+        },
+        "url":"https:\/\/translate.google.com\/about\/?hl=en-US",
+        "region_name":"Tech",
+        "region_code":"TEC",
+        "Project_title":"Google Translate",
+        "Project_description":"Translate text, images, documents, and websites",
+        "status":"active",
+        "stages":"Ongoing",
+        "date":"2022-03-15",
+        "procurementMethod":"Online",
+        "budget":100000.0,
+        "currency":"USD",
+        "buyer":"Google",
+        "sector":"Technology",
+        "subsector":"Translation"
+    },
+    {
+        "original_id":"98",
+        "aug_id":"GIS-Specialist-55",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -119.3528,
+                35.5941
+            ]
+        },
+        "url":"https:\/\/www.cityofwasco.org\/Jobs.aspx?UniqueId=98&From=All&CommunityJobs=False&JobID=GIS-Specialist-55",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"GIS Specialist",
+        "Project_description":"Install and maintain a variety of computer-based software and hardware including Geographical Information Systems software (GIS)",
+        "status":"Open",
+        "stages":"Posted January 6, 2023 8:00 AM | Open Until Filled",
+        "date":"2023-01-06",
+        "procurementMethod":"Unknown",
+        "budget":null,
+        "currency":"Unknown",
+        "buyer":"City of Wasco",
+        "sector":"Technology",
+        "subsector":"Information Technology"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"1",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -124.16367,
+                40.80207
+            ]
+        },
+        "url":"https:\/\/www.eurekaca.gov",
+        "region_name":null,
+        "region_code":null,
+        "Project_title":"Capital Improvement Program Report 2024",
+        "Project_description":"The City of Eureka\u2019s Five-Year Capital Improvement Program (CIP) is a multi-year planning instrument used to identify needed capital improvement projects and to coordinate the financing and timing of these improvements. The primary purpose of the CIP is to assist in the orderly implementation of the broad and comprehensive goals of the City\u2019s adopted General Plan. The CIP also aids with planning for maintenance and replacement of the City's infrastructure by establishing an orderly basis to guide local officials in making sound budget decisions. Attention is also focused on community goals, needs, and capabilities to maximize the benefit of public expenditures.",
+        "status":"ongoing",
+        "stages":"planning",
+        "date":"2024-01-01",
+        "procurementMethod":"planning",
+        "budget":250000.0,
+        "currency":"USD",
+        "buyer":"City of Eureka",
+        "sector":"Infrastructure",
+        "subsector":"Public Works"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"cc8bd95fde-da5f-45d7-9e90-d6e2eb24437f",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -124.0828,
+                40.8665
+            ]
+        },
+        "url":"https:\/\/www.cityofarcata.org\/856\/Wastewater-Treatment-Facilities-Improvem",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"Arcata Wastewater Treatment Facility Improvement Project",
+        "Project_description":"The City of Arcata proposes to construct upgrades to the existing Arcata Wastewater Treatment Facility to update aging infrastructure and comply with the requirements of the Regional Water Quality Control Board Order No. 1-2019-0006.",
+        "status":"Ongoing",
+        "stages":"Phase 1",
+        "date":"2021-07-01",
+        "procurementMethod":"Construction",
+        "budget":54000000.0,
+        "currency":"USD",
+        "buyer":"City of Arcata",
+        "sector":"Water and Sanitation",
+        "subsector":"Wastewater Treatment"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"1",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -124.1073,
+                40.9469
+            ]
+        },
+        "url":"https:\/\/mckinleyvillecsd.ca.gov\/",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"McKinleyville BMX Track and Park Construction",
+        "Project_description":"Request for Bids for the Construction of the McKinleyville BMX Track and Park Project",
+        "status":"Open",
+        "stages":"Bids and RFPs",
+        "date":"2024-05-23",
+        "procurementMethod":"Bids",
+        "budget":null,
+        "currency":"USD",
+        "buyer":"McKinleyville Community Services District",
+        "sector":"Construction",
+        "subsector":"BMX Track and Park"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"San Rafael",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -122.5268,
+                37.9749
+            ]
+        },
+        "url":"https:\/\/www.cityofsanrafael.org\/",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"Planning Division",
+        "Project_description":"The Planning Division provides information on land use, zoning, site development standards and processes applications for land use permits and land divisions. Most projects submitted fall into two categories, Design Review or Use Permit.",
+        "status":"active",
+        "stages":"ongoing",
+        "date":"2024-05-09",
+        "procurementMethod":"NA",
+        "budget":0.0,
+        "currency":"NA",
+        "buyer":"City of San Rafael",
+        "sector":"Urban Planning",
+        "subsector":"Land Use and Zoning"
+    },
+    {
+        "original_id":"18.52532217.1716126980.5773ca1c",
+        "aug_id":"18.52532217.1716126980.5773ca1c",
+        "country_name":null,
+        "country_code":null,
+        "map_coordinates":null,
+        "url":null,
+        "region_name":null,
+        "region_code":null,
+        "Project_title":null,
+        "Project_description":null,
+        "status":null,
+        "stages":null,
+        "date":null,
+        "procurementMethod":null,
+        "budget":null,
+        "currency":null,
+        "buyer":null,
+        "sector":null,
+        "subsector":null
+    },
+    {
+        "original_id":"cc9b263b9d-a7e2-4e23-b747-b6d686e76be0",
+        "aug_id":"27",
+        "country_name":"Mill Valley",
+        "country_code":"MVL",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                37.9062,
+                -122.5448
+            ]
+        },
+        "url":"https:\/\/www.cityofmillvalley.org\/",
+        "region_name":"N\/A",
+        "region_code":"N\/A",
+        "Project_title":null,
+        "Project_description":null,
+        "status":null,
+        "stages":null,
+        "date":null,
+        "procurementMethod":null,
+        "budget":null,
+        "currency":null,
+        "buyer":null,
+        "sector":null,
+        "subsector":null
+    },
+    {
+        "original_id":"1",
+        "aug_id":"RPU",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -117.396156,
+                33.95335
+            ]
+        },
+        "url":"https:\/\/www.riversideca.gov\/media-press-release\/rpu",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"Riverside Public Utilities Recognized for Excellence in Communications",
+        "Project_description":"Riverside Public Utilities has been recognized for excellence in communications.",
+        "status":"closed",
+        "stages":"completed",
+        "date":"2022-11-20",
+        "procurementMethod":"open",
+        "budget":0.0,
+        "currency":"USD",
+        "buyer":"Riverside Public Utilities",
+        "sector":"Utilities",
+        "subsector":"Communications"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"1",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"",
+            "coordinates":[
+                33.9425,
+                -118.4081
+            ]
+        },
+        "url":"https:\/\/moval.gov\/cdd\/simplicity-help.html",
+        "region_name":"California",
+        "region_code":"CA",
+        "Project_title":"Building and Safety Applications",
+        "Project_description":"Choose this to view Digital Plan Room quick tips, video tutorials, etc",
+        "status":"active",
+        "stages":"ongoing",
+        "date":"2022-06-01",
+        "procurementMethod":"Open",
+        "budget":50000.0,
+        "currency":"USD",
+        "buyer":"City of Moreno Valley",
+        "sector":"Public Services",
+        "subsector":"Building and Safety"
+    },
+    {
+        "original_id":"18.56532217.1716127214.11678193",
+        "aug_id":"56532217",
+        "country_name":null,
+        "country_code":null,
+        "map_coordinates":null,
+        "url":"https:\/\/errors.edgesuite.net\/18.56532217.1716127214.11678193",
+        "region_name":null,
+        "region_code":null,
+        "Project_title":null,
+        "Project_description":null,
+        "status":null,
+        "stages":null,
+        "date":null,
+        "procurementMethod":null,
+        "budget":null,
+        "currency":null,
+        "buyer":null,
+        "sector":null,
+        "subsector":null
+    },
+    {
+        "original_id":"\/content\/portal\/us\/en\/city-government\/contact-us",
+        "aug_id":"city-government-contact-us",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":null,
+        "url":"https:\/\/www.cityofsacramento.gov\/city-government\/contact-us",
+        "region_name":"California",
+        "region_code":"CA",
+        "Project_title":null,
+        "Project_description":null,
+        "status":null,
+        "stages":null,
+        "date":null,
+        "procurementMethod":null,
+        "budget":null,
+        "currency":null,
+        "buyer":null,
+        "sector":null,
+        "subsector":null
+    },
+    {
+        "original_id":"1",
+        "aug_id":"california-department-of-fish-and-wildlife",
+        "country_name":"California Department of Fish and Wildlife",
+        "country_code":"USA",
+        "map_coordinates":null,
+        "url":"https:\/\/example.com",
+        "region_name":"California",
+        "region_code":"US-CA",
+        "Project_title":null,
+        "Project_description":null,
+        "status":"Open",
+        "stages":"Planning",
+        "date":"2023-09-15",
+        "procurementMethod":"Tender",
+        "budget":5000000.0,
+        "currency":"USD",
+        "buyer":"California Department of Fish and Wildlife",
+        "sector":"Construction",
+        "subsector":"Infrastructure"
+    },
+    {
+        "original_id":"01A6400",
+        "aug_id":"01A6400",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -123.8985,
+                41.7076
+            ]
+        },
+        "url":"https:\/\/caleprocure.ca.gov\/event\/2660\/01A6400",
+        "region_name":"California",
+        "region_code":"CA",
+        "Project_title":"Multi-Provider Title and Escrow Services in Del Norte County",
+        "Project_description":"Procurement of title and escrow services in Del Norte County",
+        "status":"active",
+        "stages":"open",
+        "date":"2024-05-02",
+        "procurementMethod":"open",
+        "budget":null,
+        "currency":"USD",
+        "buyer":"Caltrans",
+        "sector":"Real Estate",
+        "subsector":"Title and Escrow Services"
+    },
+    {
+        "original_id":"Wastewater_Treatment_Facilities_Improvements",
+        "aug_id":"Arcata_Wastewater_Treatment_Facility",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -124.0818,
+                40.8665
+            ]
+        },
+        "url":"https:\/\/www.cityofarcata.org",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"Wastewater Treatment Facilities Improvements",
+        "Project_description":"The City of Arcata proposes to construct upgrades to the existing Arcata Wastewater Treatment Facility to update aging infrastructure and comply with regulatory requirements.",
+        "status":"Ongoing",
+        "stages":"Phase 1: Rehabilitation and reconfiguration of effluent flow",
+        "date":"2023-08-15",
+        "procurementMethod":"Construction",
+        "budget":5000000.0,
+        "currency":"USD",
+        "buyer":"City of Arcata",
+        "sector":"Environmental",
+        "subsector":"Wastewater Treatment"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"san_rafael_planning",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -122.5311,
+                38.0699
+            ]
+        },
+        "url":"https:\/\/www.cityofsanrafael.org\/",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"Planning Division",
+        "Project_description":"Provides information on land use, zoning, site development standards and processes applications for land use permits and land divisions.",
+        "status":"Open",
+        "stages":"Ongoing",
+        "date":"2024-05-17",
+        "procurementMethod":"Online",
+        "budget":null,
+        "currency":"USD",
+        "buyer":"City of San Rafael",
+        "sector":"Community Development",
+        "subsector":"Urban Planning"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"SeeClickFix Elk Grove",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -121.3716184,
+                38.4087993
+            ]
+        },
+        "url":"https:\/\/apps.apple.com\/us\/app\/seeclickfix-elk-grove\/id1604852377",
+        "region_name":"California",
+        "region_code":"CA",
+        "Project_title":"SeeClickFix Elk Grove",
+        "Project_description":"The SeeClickFix Elk Grove app makes reporting a non-emergency problem easier than ever. This free app is a great way for residents of Elk Grove to report issues in the community as soon as they are discovered. This app uses GPS to recognize your location and gives you a menu of common quality-of-life conditions to report a problem. It allows you to upload pictures or videos to accompany your request and gives you the ability to track the issue from the time reported through resolution. The app can be used for a variety of requests such as street maintenance, streetlight requests, damaged trees, abandoned cars, code enforcement issues and more. The City of Elk Grove appreciates your feedback, and use of this software will allow us to improve and beautify our community.",
+        "status":"active",
+        "stages":"implementation",
+        "date":"2023-10-24",
+        "procurementMethod":"Mobile App Development",
+        "budget":0.0,
+        "currency":"USD",
+        "buyer":"City of Elk Grove",
+        "sector":"Utilities",
+        "subsector":"Public Services"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"1",
+        "country_name":"Global",
+        "country_code":"GLB",
+        "map_coordinates":{
+
+        },
+        "url":"https:\/\/www.fluor.com\/",
+        "region_name":"Global",
+        "region_code":"GLB",
+        "Project_title":"Infrastructure Projects",
+        "Project_description":"An Industry Leader in Design and Construction of Infrastructure and Transportation Projects",
+        "status":"Ongoing",
+        "stages":"Design and Construction",
+        "date":"2024-09-15",
+        "procurementMethod":"Design-Build",
+        "budget":1000000.0,
+        "currency":"USD",
+        "buyer":"Fluor Corporation",
+        "sector":"Infrastructure",
+        "subsector":"Transportation"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"1",
+        "country_name":"Canada",
+        "country_code":"CAN",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                -123.0898,
+                54.0514
+            ]
+        },
+        "url":"https:\/\/www.example.com",
+        "region_name":"North America",
+        "region_code":"NA",
+        "Project_title":"LNG Canada Export Facility",
+        "Project_description":"The project represents the largest energy investment in Canadian history.",
+        "status":"closed",
+        "stages":"construction",
+        "date":"2022-01-15",
+        "procurementMethod":"open",
+        "budget":50000000.0,
+        "currency":"CAD",
+        "buyer":"LNG Canada",
+        "sector":"Energy",
+        "subsector":"Natural Gas"
+    },
+    {
+        "original_id":"1",
+        "aug_id":"TO_library",
+        "country_name":"United States",
+        "country_code":"USA",
+        "map_coordinates":{
+            "type":"Point",
+            "coordinates":[
+                34.1706,
+                -118.8376
+            ]
+        },
+        "url":"http:\/\/www.tolibrary.org",
+        "region_name":null,
+        "region_code":null,
+        "Project_title":null,
+        "Project_description":null,
+        "status":null,
+        "stages":null,
+        "date":null,
+        "procurementMethod":null,
+        "budget":null,
+        "currency":null,
+        "buyer":"Thousand Oaks Library",
+        "sector":"Public Services",
+        "subsector":"Library Services"
+    }
+]
